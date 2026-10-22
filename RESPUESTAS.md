@@ -189,6 +189,7 @@ _Mi respuesta / análisis:_
 ## A4 · Muestra el score de similitud en las fuentes
 
 _Evidencia:_ …
+<img width="900" height="601" alt="image" src="https://github.com/user-attachments/assets/7acb0dfc-2a0a-4916-968e-f2761a3767bb" />
 
 _Mi respuesta / análisis:_
 # Análisis de Scores de Similitud Semántica y Definición de Umbral (Cutoff)
